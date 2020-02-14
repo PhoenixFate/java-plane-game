@@ -125,8 +125,6 @@ public class ShootGame extends JPanel {
     }
 
     public static void main(String[] args) {
-        System.out.println("交流学习，谢谢关注 知乎专栏：小仙女Albee  微信 K2Romm");
-
         JFrame frame = new JFrame("Albee");
         ShootGame game = new ShootGame();
         frame.add(game);
